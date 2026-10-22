@@ -1,0 +1,15 @@
+{
+  "metric_orders": [
+    ["exact_match", "text_equal"],
+    ["text_equal", "exact_match"],
+    ["exact_match"],
+    ["text_equal"]
+  ],
+  "predictions": ["answer", "alias", "wrong"],
+  "target_cases": [
+    {"id": "multiple", "target": ["answer", "alias"]},
+    {"id": "multiple_reversed", "target": ["alias", "answer"]},
+    {"id": "singleton_list", "target": ["answer"]},
+    {"id": "scalar", "target": "answer"}
+  ]
+}

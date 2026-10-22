@@ -1,0 +1,48 @@
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
+metric_order_replay: No `generation_kwargs` specified in task config, defaulting to {'temperature': 0.0, 'do_sample': False, 'max_gen_toks': 256, 'until': ['\n\n']}
+metric_order_replay: Custom kwargs can be passed to `--metadata` in console (as json string) or to the TaskManager.
+For example --metadata='{"max_seq_lengths":[4096, 8192]}'. For details see task Readme.
